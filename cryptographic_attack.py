@@ -4,7 +4,6 @@ import os, binascii
 
 def xor(a, b):
     """Return the XOR of two byte sequences. The length of the result is the length of the shortest."""
-
     return bytes(x ^ y for (x, y) in zip(a, b))
 
 
