@@ -1,2 +1,2 @@
-# many_time_pad
+# cryptographic_code_snippets
 Cryptographic test repository
