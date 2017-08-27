@@ -28,7 +28,7 @@ This is a small program. It uses Python3 and imports os, binascii. These variabl
 
 A comparison of the original "plain.txt" and the "attack.txt" is shown below.
 
-![Comparing "plain.txt" with "attack.txt"](./comparison_with_plainTxt.png?raw=true "Comparison")
+![Comparing "plain.txt" with "attack.txt"](doc/comparison_with_plainTxt.png?raw=true "Comparison")
 
 In a future version it is a good idea to allow the user to manually fix the target plaintext (it is often obvious what the plain text is even though some characters are incorrect). The program should then output the corresponding cipher key. The idea is to add more tools/scripts about cryptography later.
 
